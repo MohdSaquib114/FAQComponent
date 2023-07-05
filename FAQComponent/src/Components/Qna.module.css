@@ -1,0 +1,30 @@
+
+
+.clicked{
+transform: rotate(90deg);
+}
+.unclicked{
+    transform: none;
+}
+.container{border:1px solid black; 
+    width:auto;
+     padding:.3rem;
+      margin:1rem;
+      border-radius: .3rem; 
+    }
+.answer{
+   
+ 
+    /* padding-top: 0; */
+    font-size:1.1rem;
+    margin-left: 2.1rem;
+    animation: fade-in .3s ease-in 0s 1 forwards ;
+}
+@keyframes fade-in {
+    from{
+        opacity: 0;
+    }to{
+        opacity: 1;
+    }
+    
+}

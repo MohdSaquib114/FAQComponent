@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+body{
+    font-family: 'Merienda', cursive;
+    /* background-image: radial-gradient(circle, #e9ecf1, #cceeff, #a3f3fc, #89f6e0, #9af4af);
+     */
+     background-image: radial-gradient(circle, #b9e9f3, #baedef, #bef1e8, #c6f4e1, #d2f6da);
+}
